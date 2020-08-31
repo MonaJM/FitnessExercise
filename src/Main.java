@@ -22,7 +22,7 @@ public class Main {
         myPersons.add(newMember("Martin", "221175-1011", true));
         myPersons.add(newMember("Martina", "050970-1409", false));
         myPersons.add(newMember("Marcel", "221275-1013", true));
-        
+
         System.out.println(employeeStr(myPersons));
         System.out.println(membersStr(myPersons));
         System.out.println(overviewStr(myPersons));
